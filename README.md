@@ -1,4 +1,4 @@
-# Práctica 3 de Sistemas Operativos
+# Práctica 3 de Sistemas Operativos - C.Dir-Analyzer
 
 Este repositorio contiene el código fuente de la Práctica 3 de la asignatura de Sistemas Operativos. El objetivo de esta práctica es implementar un script en C que calcule estadísticas sobre un directorio, siguiendo un enunciado específico.
 
