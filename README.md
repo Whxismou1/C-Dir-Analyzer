@@ -30,4 +30,5 @@ Para ejecutar el script, sigue estos pasos:
 3. Ejecuta el script proporcionando el directorio de trabajo como argumento, o simplemente ejecútalo sin argumentos para usar el directorio actual:
 
    ```shell
-   ./dir_stats_script [directorio_de_trabajo]
+   gcc -o C-Dir-Analyzer C-Dir-Analyzer.c
+   ./C-Dir-Analyzer [directorio_de_trabajo]
